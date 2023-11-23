@@ -1,0 +1,16 @@
+{
+  "name": "vendor-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kyo-jp/vendor-data.git",
+  "author": "uekyo <kyo@viv.co.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/util-dynamodb": "^3.454.0",
+    "aws-sdk": "^2.1502.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  }
+}
